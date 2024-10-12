@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science student
 ------------------------
 
-Beginner developer passionate about front end technologies
+Beginner developer passionate about web technologies
 
 * 🌍  I'm based in Bucharest, Romania
 * ✉️  You can contact me at [mirceaalexandru430@gmail.com](mailto:mirceaalexandru430@gmail.com)
